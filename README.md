@@ -1,0 +1,5 @@
+# Edepto_AndroidStudioProject
+Edepto is a mobile application designed to provide students with a comprehensive platform for accessing and organizing educational materials. The app aims to enhance the learning experience by offering a wide range of study resources, including textbooks, lecture notes, practice exams, and interactive learning tools. The app also facilitates collaboration among students by enabling them to create study groups, share notes, and engage in discussion forums.
+Edepto offers a user-friendly interface that allows students to search for specific subjects or topics and access relevant materials with ease. The app integrates with existing educational platforms and databases to provide an extensive library of resources from various disciplines and educational levels.
+
+Edepto aims to streamline the learning process, empower students with a wealth of educational materials, and foster collaboration and engagement among peers. By leveraging technology and a user-centric approach, the app strives to enhance students' academic performance and overall learning outcomes.
